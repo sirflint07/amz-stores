@@ -31,3 +31,8 @@ body {
     text-wrap: balance;
   }
 }
+
+
+.btn-styles {
+  @apply w-[50px] bg-yellow-500 text-white font-extrabold px-2
+}
